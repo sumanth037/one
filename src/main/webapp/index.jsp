@@ -805,7 +805,7 @@
             {
                 id: 6,
                 title: 'Chanel No. 5',
-                price: 12000,
+                price: 1200,
                 rating: 5,
                 reviews: 189,
                 img: 'https://images.unsplash.com/photo-1585386959984-a4155224a1ad?auto=format&fit=crop&w=600&q=80',
