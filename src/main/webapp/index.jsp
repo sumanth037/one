@@ -814,7 +814,7 @@
             {
                 id: 7,
                 title: 'Travel Backpack',
-                price: 79,
+                price: 379,
                 oldPrice: 99,
                 rating: 4,
                 reviews: 67,
