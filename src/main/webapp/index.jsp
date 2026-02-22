@@ -775,9 +775,9 @@
             },
             {
                 id: 3,
-                title: 'Apple Watch Series 18',
+                title: 'Apple Watch Series 13',
                 price: 349,
-                oldPrice: 1399,
+                oldPrice: 1299,
                 rating: 5,
                 reviews: 214,
                 badge: '-25%',
