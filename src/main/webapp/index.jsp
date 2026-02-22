@@ -796,7 +796,7 @@
             {
                 id: 5,
                 title: 'Sony A7 IV Camera',
-                price: 1499,
+                price: 3499,
                 rating: 5,
                 reviews: 42,
                 img: 'https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?auto=format&fit=crop&w=600&q=80',
